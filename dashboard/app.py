@@ -134,6 +134,6 @@ if day_df is not None:
     
     # Menampilkan tabel data clustering (Preview)
     st.write("Preview Hasil Clustering:")
-    st.dataframe(main_2012[['dteday', 'temp_cluster', 'demand_cluster', 'cnt']].head())
-
+    st.dataframe(main_2012[['dteday', 'temp_clust
+                            
     st.caption("Copyright © 2026 | Analisis Data Bike Sharing")
