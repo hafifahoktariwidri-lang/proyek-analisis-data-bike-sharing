@@ -12,7 +12,7 @@ Proyek ini merupakan analisis data pada dataset "Bike Sharing" untuk mengeksplor
 
 ## Instalasi
 1. Clone repositori ini ke komputer lokal Anda:
-    git clone [https://github.com/username/bike-sharing-analysis.git](https://github.com/username/bike-sharing-analysis.git)
+    git clone [https://github.com/username/bike-sharing-analysis.git].(https://github.com/hafifahoktariwidri-lang/proyek-analisis-data-bike-sharing))
 2. Pastikan Anda memiliki Python terinstal (disarankan versi 3.9 ke atas).
 3. Instal library yang dibutuhkan menggunakan pip:
     pip install -r requirements.txt
