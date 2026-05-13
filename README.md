@@ -10,15 +10,6 @@ Proyek ini merupakan analisis data pada dataset "Bike Sharing" untuk mengeksplor
 - **requirements.txt**: Daftar library Python yang dibutuhkan.
 - **README.md**: Dokumentasi proyek ini.
 
-
-
-
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install -r requirements.txt
-```
-
 ## Instalasi
 1. Clone repositori ini ke komputer lokal Anda:
     git clone (https://github.com/hafifahoktariwidri-lang/proyek-analisis-data-bike-sharing))
@@ -39,4 +30,4 @@ pip install -r requirements.txt
   streamlit run app.py
 ```
 4. Dashboard akan terbuka secara otomatis di browser Anda
-   (http://localhost:8501).)
+   (http://localhost:8501).
