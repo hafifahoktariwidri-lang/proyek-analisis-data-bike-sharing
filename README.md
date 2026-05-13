@@ -24,13 +24,19 @@ pip install -r requirements.txt
     git clone (https://github.com/hafifahoktariwidri-lang/proyek-analisis-data-bike-sharing))
 2. Pastikan Anda memiliki Python terinstal (disarankan versi 3.9 ke atas).
 3. Instal library yang dibutuhkan menggunakan pip:
-    pip install -r requirements.txt
+```
+     pip install -r requirements.txt
+```
 
 ## Cara Menjalankan Dashboard
 1. Buka terminal atau command prompt.
 2. Masuk ke direktori proyek (folder dashboard):
-   cd dashboard
+  ```
+ cd dashboard
+```
 3. Jalankan aplikasi Streamlit:
-   streamlit run app.py
+ ```
+  streamlit run app.py
+```
 4. Dashboard akan terbuka secara otomatis di browser Anda
    (http://localhost:8501).)
