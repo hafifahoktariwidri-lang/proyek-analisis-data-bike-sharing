@@ -4,8 +4,8 @@
 Proyek ini merupakan analisis data pada dataset "Bike Sharing" untuk mengeksplorasi pola penyewaan sepeda berdasarkan berbagai faktor seperti waktu (jam), kondisi cuaca, dan suhu. Hasil analisis disajikan dalam bentuk dashboard interaktif menggunakan Streamlit.
 
 ## Struktur Direktori
-- **/dashboard**: Berisi file utama untuk dashboard (`app.py`) dan dataset yang sudah dibersihkan (`main_data.csv`).
-- **/data**: Berisi dataset mentah dalam format CSV (`day.csv` dan `hour.csv`).
+- **dashboard**: Berisi file utama untuk dashboard (`app.py`) dan dataset yang sudah dibersihkan (`main_data.csv`).
+- **data**: Berisi dataset mentah dalam format CSV (`day.csv` dan `hour.csv`).
 - **notebook.ipynb**: File Jupyter Notebook yang berisi proses analisis data lengkap dari Wrangling hingga Visualisasi.
 - **requirements.txt**: Daftar library Python yang dibutuhkan.
 - **README.md**: Dokumentasi proyek ini.
