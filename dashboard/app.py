@@ -132,8 +132,5 @@ if day_df is not None:
     ax3.set_title('Hubungan Cluster Suhu terhadap Intensitas Permintaan')
     st.pyplot(fig3)
     
-    # Menampilkan tabel data clustering (Preview)
-    st.write("Preview Hasil Clustering:")
-    st.dataframe(main_2012[['dteday', 'temp_clust
-                            
+                               
     st.caption("Copyright © 2026 | Analisis Data Bike Sharing")
